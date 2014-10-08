@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget id="SelectAllTextBox.widget.SelectAllTextBox" needsEntityContext="true" xmlns="http://www.mendix.com/widget/1.0/">
+  <name>Select All Text Box Widget</name>
+  <description></description>
+
+  <icon></icon>
+
+  <properties>
+        <property key="displayAttr" type="attribute">
+            <caption>Display attribute</caption>
+            <category>Appearance</category>
+            <description>The attribute to display.</description>
+            <attributeTypes>
+                <attributeType name="String"/>
+            </attributeTypes>
+        </property>
+	</properties>
+</widget>
+
